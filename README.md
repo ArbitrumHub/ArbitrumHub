@@ -2,8 +2,7 @@
 ![1beecbc7-1023-45fc-a7fb-be6983747337](https://github.com/ArbitrumHub/ArbitrumHub/assets/164614875/aac5375a-be2e-493f-a1c4-e1425ea7f868)
 
 
-**ArbitrumHub is your gateway to seamless navigation and participation in the ArbitrumDAO ecosystem. Contribute to this open-source initiative [here](https://github.com/ArbitrumHub/ArbitrumDAO_Hub).
-**
+**ArbitrumHub is your gateway to seamless navigation and participation in the ArbitrumDAO ecosystem. Contribute to this open-source initiative [here](https://github.com/ArbitrumHub/ArbitrumDAO_Hub).**
 
 **Problems Addressed:**
 - Complexity for users and newcomers.
